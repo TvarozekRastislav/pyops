@@ -1,0 +1,2 @@
+python-requests>=2.31
+data-helpers-toolkit>=1.0
